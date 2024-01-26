@@ -1,0 +1,121 @@
+/*FOR 1/25 IN CLASS ASSIGNMENTS */
+div.a {
+    width: 300px;
+    border: 15px solid rgb(255, 250, 209);
+    padding: 50px;
+    /* margin: 20px; */
+    text-align: center;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ol.z {
+    list-style-type: upper-roman;
+}
+ul.z {
+    list-style-type: circle;
+}
+table, th, td {
+    border: 1px solid;
+    float: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 180px;
+    text-align: center;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+div {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/*FOR SKYLAR'S WEBSITE*/
+h1, p, h2 {
+    color:#3e5c4c;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+   
+   }
+   nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #517a64;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    z-index: 1000;
+    position: relative;
+    }
+   li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 30px;
+    text-decoration: none;
+    float: left;
+   }
+   li a:hover {
+    background-color: #3e5c4c;
+   }
+   body {
+    background-color: #bbddcb;
+   }
+
+   .bottomtext {
+    position: fixed;
+    bottom: 0;
+    padding-bottom: 70px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+   }
+   .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 100%;
+    background-color: #3e5c4c;
+    display: flex;
+    justify-content: center;
+   }
+   .movethingsup {
+    padding-bottom: 75px;
+    display: flex;
+    justify-content: center;
+   }
+   .spacing {
+    padding-top: 15px;
+   }
+   .spacing2 {
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+   }
+   
